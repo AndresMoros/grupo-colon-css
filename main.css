@@ -1,0 +1,34 @@
+  :root {
+  /* Primary colors */
+  --primary-color: #CF7B39;
+  --secondary-color: #002048;
+  
+  /* Derived pallete */
+  --primary-light: #E69A5F;
+  --primary-dark: #B5662A;
+  --secondary-light: #003A7A;
+  --secondary-dark: #001530;
+  
+  /* Neutral colors */
+  --background: #F8F9FA;
+  --surface: #FFFFFF;
+  --text-primary: #002048;
+  --text-secondary: #5A6C7D;
+  --border: #E1E8ED;
+  
+  /* Shadows */
+  --shadow-sm: 0 2px 8px rgba(0, 32, 72, 0.1);
+  --shadow-md: 0 8px 20px rgba(0, 32, 72, 0.15);
+  --shadow-lg: 0 16px 40px rgba(0, 32, 72, 0.2);
+  
+  /* Spacing */
+  --spacing-xs: 8px;
+  --spacing-sm: 16px;
+  --spacing-md: 24px;
+  --spacing-lg: 40px;
+  
+  /* Borders */
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 20px;
+}
